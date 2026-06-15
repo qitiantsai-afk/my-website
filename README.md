@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>澎湖七龍珠花火節．南北家族大會師</title>
+    <style>
+        :root {
+            --primary-color: #FF6600; 
+            --secondary-color: #FFCC00; 
+            --dark-color: #1E293B;
+            --bg-light: #F8FAFC;
+            --accent-blue: #0284C7; 
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: "Helvetica Neue", Arial, "Noto Sans TC", sans-serif; }
+        body { background-color: var(--bg-light); color: var(--dark-color); line-height: 1.6; }
+        header { background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); color: white; text-align: center; padding: 3rem 1rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+        header h1 { font-size: 2.2rem; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        header p { font-size: 1.1rem; opacity: 0.9; }
+        nav { background-color: var(--dark-color); position: sticky; top: 0; z-index: 100; display: flex; justify-content: center; overflow-x: auto; }
+        nav a { color: white; padding: 1rem; text-decoration: none; font-weight: bold; font-size: 0.95rem; white-space: nowrap; transition: background 0.3s; }
+        nav a:hover { background-color: var(--primary-color); }
+        .container { max-width: 1000px; margin: 2rem auto; padding: 0 1rem; }
+        section { background: white; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); scroll-margin-top: 60px; }
+        section h2 { color: var(--primary-color); border-left: 5px solid var(--secondary-color); padding-left: 10px; margin-bottom: 1.5rem; font-size: 1.6rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+        .card { border: 1px solid #E2E8F0; border-radius: 8px; padding: 1.2rem; background: #FFF; border-top: 4px solid var(--accent-blue); }
+        .card h3 { margin-bottom: 0.5rem; color: var(--dark-color); }
+        blockquote { background: #FFFBEB; border-left: 4px solid #F59E0B; padding: 0.8rem; margin: 0.5rem 0; font-size: 0.88rem; font-style: italic; border-radius: 4px; }
+        .timeline { position: relative; border-left: 3px solid var(--secondary-color); margin-left: 10px; padding-left: 20px; }
+        .timeline-item { position: relative; margin-bottom: 1.5rem; }
+        .timeline-item::before { content: ''; position: absolute; left: -27px; top: 5px; width: 12px; height: 12px; border-radius: 50%; background: var(--primary-color); border: 2px solid white; }
+        .time { font-weight: bold; color: var(--primary-color); display: block; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: 0.9rem; }
+        th, td { border: 1px solid #E2E8F0; padding: 0.8rem; text-align: left; }
+        th { background-color: #EDF2F7; color: var(--dark-color); }
+        a.text-link { color: var(--accent-blue); text-decoration: none; font-weight: bold; }
+        a.text-link:hover { text-decoration: underline; }
+        .badge { background: #E0F2FE; color: #0369A1; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold; }
+        .badge-orange { background: #FFEDD5; color: #C2410C; }
+        .badge-green { background: #DCFCE7; color: #15803D; }
+        footer { text-align: center; padding: 2rem; color: #64748B; font-size: 0.85rem; border-top: 1px solid #E2E8F0; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>☄️ 澎湖七龍珠花火節南北家族大會師 ☄️</h1>
+    <p>📅 日期：2026/08/09 ~ 2026/08/12 (4天3夜)</p>
+    <p>👥 總人數：19位家人同樂 (終極完整網頁定案版)</p>
+    <p style="font-size: 0.95rem; margin-top: 0.5rem; color: #FFFBEB;">💡 自由島嶼方針：本行程所有餐廳與景點均不預先綁定訂位，全面採取現場隨性微調、自由拆組覓食，不趕行程、完全零壓力！</p>
+</header>
+
+<nav>
+    <a href="#group">家族成員</a>
+    <a href="#cars">車輛分配</a>
+    <a href="#hotel">別墅訂房</a>
+    <a href="#itinerary">詳細行程</a>
+    <a href="#budget">費用預算</a>
+</nav>
+
+<div class="container">
+    <section id="group">
+        <h2>👥 家族分組資訊</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>A 組 ✈️ 松山立榮</h3>
+                <p>宜學、育均、欣穎、和穎、程安 (共5人)</p>
+            </div>
+            <div class="card">
+                <h3>B 組 ✈️ 松山 (10:40去 / 10:30回)</h3>
+                <p>家麟、祐銓、云茜、品辰、辰睿、芮羽 (共6人)</p>
+            </div>
+            <div class="card">
+                <h3>C 組 ✈️ 松山華信</h3>
+                <p>美伶、宏越、思甯 (共3人)</p>
+            </div>
+            <div class="card">
+                <h3>D 組 ✈️ 高雄華信</h3>
+                <p>卜正、修宏、怡婷、博喧、敏馨 (共5人)</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="cars">
+        <h2>🚗 車輛乘坐座位分配 (機場直接取還)</h2>
+        <div class="grid">
+            <div class="card" style="border-top-color: #DC2626;">
+                <h3>🔴 S 車 (南方之星)</h3>
+                <p><strong>駕駛：</strong>宜學</p>
+                <p><strong>前排配置：</strong>副駕-卜正，前排中間-和穎</p>
+                <blockquote>最O的三位在前面，後面就寬敞多啦～哈哈！！</blockquote>
+                <p><strong>後座成員：</strong>家麟、美伶、修宏、怡婷、育均、欣穎、程安</p>
+                <p style="margin-top:0.5rem;"><span class="badge badge-orange">Day 1 09:00 機場牽車</span>➔ <span class="badge">Day 4 09:30 機場還車</span></p>
+            </div>
+            <div class="card" style="border-top-color: #1E3A8A;">
+                <h3>🔵 N 車 (北方之星)</h3>
+                <p><strong>駕駛：</strong>佑銓</p>
+                <p><strong>成員：</strong>云茜、宏越、思甯、博喧、敏馨、品辰、辰睿、芮羽</p>
+                <p style="margin-top:1.7rem;"><span class="badge badge-green">Day 1 12:30 機場牽車</span>➔ <span class="badge">Day 4 11:30 機場還車</span></p>
+            </div>
+        </div>
+    </section>
+
+    <section id="hotel">
+        <h2>🏡 泥說民宿 房型配置</h2>
+        <p><strong>民宿地址：</strong>澎湖縣馬公市前寮里3-26號 (全新包棟雙棟別墅)</p>
+        <p><strong>娛樂公設：</strong><span class="badge badge-green">兩棟別墅客廳皆有 KTV 歡唱系統 & 電動麻將桌</span> 🀄🎤</p>
+        <div class="grid">
+            <div class="card" style="border-top-color: var(--primary-color);">
+                <h3>A 棟 (4人房 3間)</h3>
+                <ul>
+                    <li><strong>A1房：</strong>宜學、育均、和穎、程安</li>
+                    <li><strong>A2房：</strong>修宏、怡婷、博喧、敏馨</li>
+                    <li><strong>A3房：</strong>祐銓、云茜、辰睿、芮羽</li>
+                </ul>
+            </div>
+            <div class="card" style="border-top-color: var(--primary-color);">
+                <h3>B 棟 (2人房 4間)</h3>
+                <ul>
+                    <li><strong>B1房：</strong>家麟、美伶 <span class="badge">長輩獨立安靜房</span></li>
+                    <li><strong>B2房：</strong>宏越、思甯</li>
+                    <li><strong>B3房：</strong>欣穎、品辰</li>
+                    <li><strong>B4房：</strong>卜正</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="itinerary">
+        <h2>🗺️ 4天3夜不省略精細時間軸</h2>
+        
+        <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 1 (08/09) 南北大會師與南環夕陽</h3>
+        <div class="timeline">
+            <div class="timeline-item"><span class="time">08:00</span> A組班機抵達馬公機場。<strong>（預留30分鐘提領行李與出關手續）</strong></div>
+            <div class="timeline-item"><span class="time">09:00</span> <strong>【機場牽 S 車】</strong>宜學代表於機場直接取 S 車，開啟慢活自由度假。</div>
+            <div class="timeline-item"><span class="time">09:15-11:40</span> A組專屬悠閒慢活，自由隨性在市區尋找冷氣早午餐店休息。</div>
+            <div class="timeline-item"><span class="time">11:40</span> B組航班降落馬公機場（搭乘10:40松山起飛班機）。</div>
+            <div class="timeline-item"><span class="time">12:15</span> D組高雄華信航班降落馬公機場（B、C組已全數降落）。<strong>（全體預留30分鐘大團體集合出關時間）</strong></div>
+            <div class="timeline-item"><span class="time">12:30</span> <strong>【機場牽 N 車】</strong>祐銓代表下機後於機場直接辦理 N 車牽車手續！</div>
+            <div class="timeline-item"><span class="time">12:45</span> <strong>全員機場大會師合體！</strong> S車與N車大部隊由機場浩浩蕩蕩出發。</div>
+            <div class="timeline-item"><span class="time">13:10</span> <strong>【中餐】全員開吃漁港麵小吃 <span class="badge badge-orange">★現場隨性看狀況分開吃★</span>：</strong>朝聖在地靈魂老麵店！吃澎湃海鮮麵、夾招牌滷味！一點過後剛好避開午餐正尖峰！</div>
+            <div class="timeline-item"><span class="time">14:40</span> <a href="https://www.penghu.gov.tw/phlm/ch/home.jsp?id=38&act=view&dataserno=201301250007" class="text-link" target="_blank">澎湖生活博物館</a>：正午烈日大避暑，現場購票進場，最適合長輩與幼童看大船模型。</div>
+            <div class="timeline-item"><span class="time">16:00</span> 泥說民宿辦理 Check-in，行李安頓，全家稍作午歇小憩、避開烈日。</div>
+            <div class="timeline-item"><span class="time">17:00</span> 【全員中央老街古蹟巡禮】散步天后宮與四眼井。同時啟動 <a href="https://maps.app.goo.gl/WPTSRiuvQYoyDKHF8?g_st=ic" class="text-link" target="_blank">玉冠嫩仙草</a> 攻略：先抽號碼牌再逛老街。</div>
+            <div class="timeline-item"><span class="time">18:15</span> <a href="https://share.google/uqfea8hwQtUxJ3HkD" class="text-link" target="_blank">風櫃聽濤</a> ➔ 18:35 <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=eb226be1-d129-473b-bf39-d9b2e6ccf0e2&Language=1028" class="text-link" target="_blank">山水沙灘</a>：看最美夕陽，小孩沙灘踩水，長輩坐海堤長椅舒適吹風。</div>
+            <div class="timeline-item"><span class="time">19:50</span> 【晚餐】<a href="https://share.google/QBSvuNkQ5NiyxoXbw" class="text-link" target="_blank">富國海鮮餐廳</a> <span class="badge badge-orange">★現場自由看狀況安排★</span>：享用招牌台菜海鮮。</div>
+        </div>
+
+        <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 2 (08/10) 半潛艇生態、免稅店小吃卡位與別墅 B.B.Q 狂歡 night 🎤</h3>
+        <div class="timeline">
+            <div class="timeline-item"><span class="time">09:00</span> 民宿出發前往南海遊客中心。</div>
+            <div class="timeline-item"><span class="time">09:30</span> 抵達南海遊客中心辦理登船手續。<strong>（★和慶半潛艇現場購票，須提早半小時報到★）</strong></div>
+            <div class="timeline-item"><span class="time">10:00-12:30</span> <a href="https://bobbytravel.tw/hai-shang-huang-gong/" class="text-link" target="_blank">和慶半潛艇生態之旅＋海洋牧場體驗</a>：玻璃底艙看熱帶魚，平台上烤蚵與海鮮粥無限供應。</div>
+            <div class="timeline-item"><span class="time">12:45</span> 船班返抵南海碼頭。<em>（午餐已大飽腹，直接去免稅店吹冷氣消化）</em></div>
+            <div class="timeline-item"><span class="time">13:00-16:00</span> <a href="https://ayuliu.pixnet.net/blog/posts/16065615611" class="text-link" target="_blank">三號港免稅店 (Pier 3)</a> ＆ 小吃攻略連線！14:00 搶剛開門免排隊的郵局蔥油餅！15:00 準時預訂三哥雞排！</div>
+            <div class="timeline-item"><span class="time">16:30</span> <a href="https://share.google/9rZleSdgAw88LvOHB" class="text-link" target="_blank">奎壁山摩西分海</a> ➔ <a href="https://share.google/NwbPHti04EchoatMB" class="text-link" target="_blank">南寮古厝</a>：見證摩西開路神蹟。</div>
+            <div class="timeline-item"><span class="time">18:00</span> 順路直奔熱門推薦的私房神級烤肉食材店採購，順便提領三哥雞排！</div>
+            <div class="timeline-item"><span class="time">18:30</span> 【晚餐】<span class="badge badge-orange">民宿星空 BBQ 烤肉派對 + 廚房大開伙</span>：兩棟客廳KTV飆歌、電動麻將開打，全家狂歡通宵！</div>
+        </div>
+
+        <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 3 (08/11) 聰明「反向玩北環」避人潮 ➔ 17:30 官方交管卡位與 GK 一番賞之夜🎇</h3>
+        <div class="timeline">
+            <div class="timeline-item"><span class="time">09:00</span> <strong>民宿出發北環線。啟動逆向操作策略：直接殺到最底端外垵再往回玩，完美錯開全澎湖遊覽車人潮！</strong></div>
+            <div class="timeline-item"><span class="time">09:45</span> 第一站：<a href="https://maps.app.goo.gl/4AMYFRRFNQ8gCfj38?g_st=ic" class="text-link" target="_blank">外垵刈包</a>！一早衝去完全免排隊，享受昔日夜遊神級美食！</div>
+            <div class="timeline-item"><span class="time">10:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=d04d4a89-9d51-495a-a317-2aa1c00ea0e7&Language=1028" class="text-link" target="_blank">大菓葉柱狀玄武岩</a>：車直達坡道下方，長輩下車走 1 分鐘即達。</div>
+            <div class="timeline-item"><span class="time">10:45</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=f6c6b122-f0ff-4572-832a-413fb223a808&Language=1028" class="text-link" target="_blank">二崁古厝</a>聚落漫遊：喝古法手作杏仁茶消暑。</div>
+            <div class="timeline-item"><span class="time">11:30</span> 【中餐】小門鯨魚洞附近小吃 <span class="badge badge-orange">★現場自由挑選店家★</span>：享用清甜小管麵線。</div>
+            <div class="timeline-item"><span class="time">12:45</span> 跨海大橋 ＆ <a href="https://share.google/pEzlJZM78tuFW6TCf" class="text-link" target="_blank">澎湖-長髮公主</a>：地標大合照，此時逆向拍照完全免人擠人！</div>
+            <div class="timeline-item"><span class="time">13:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=46d40746-2dc0-4bf5-9d41-736200364654&Language=1028" class="text-link" target="_blank">通樑古榕</a>：巨大天然綠蔭遮陽，品嚐必吃仙人掌冰。</div>
+            <div class="timeline-item"><span class="time">13:50</span> <a href="https://share.google/sHKsm0IWAxwSFNMLn" class="text-link" target="_blank">後寮天堂路</a>、<a href="https://share.google/h1ysFd9rCh70HqIsu" class="text-link" target="_blank">哈密瓜車站</a>：漫步海上夢幻長路。</div>
+            <div class="timeline-item"><span class="time">14:20</span> <a href="https://share.google/WGq6PPNN1cItdVkai" class="text-link" target="_blank">城前社區鮮蚵裝置</a>：萌網美大鮮蚵快閃打卡。</div>
+            <div class="timeline-item"><span class="time">14:30-16:00</span> <a href="https://sywan90204.pixnet.net/blog/posts/17324319180" class="text-link" target="_blank">澎湖水族館</a>：關鍵正午大避暑，現場購票進場，看魟魚餵食秀。隨後回民宿短暫歇息整頓。</div>
+            <div class="timeline-item"><span class="time">17:15</span> <strong>【S車/N車編隊進馬公市區】</strong>提早出發，避開最可怕的塞車潮！</div>
+            <div class="timeline-item"><span class="time">17:30</span> <strong>【神卡位！中正國小地下停車場】</strong>🚗 趕在 18:00 官方交管啟動前停妥車！享受 18:00-22:00 免費福利，步行至周邊各餐廳僅 2-5 分鐘。</div>
+            <div class="timeline-item">
+                <span class="time">17:45-18:45</span> <strong>【晚餐時間：老饕 4 大名店隨性現場選】</strong><br>
+                • <strong>馬路益燒肉飯</strong>：古早味雙拼、蚵仔煎。座位多翻桌快，最不怕排隊。<br>
+                • <strong>傻愛莊餐館</strong>：舊檢察長官舍改建，冷氣超涼多包廂，蒜水肉美味，長輩最舒服。<br>
+                • <strong>長進餐廳</strong>：老字號海鮮。紅蟳粥、白片小管，17:45衝第一波開門極好入座。<br>
+                • <strong>象屋牛排</strong>：在地台式牛排、經典酥皮濃湯。沙發空間大、冷氣強，小孩秒安靜。
+            </div>
+            <div class="timeline-item">
+                <span class="time">18:45-19:30</span> <strong>【空檔大作戰：伴手禮試吃 ＆ 旗艦 GK 一番賞雙線狂歡】</strong><br>
+                • <strong>名產組</strong>：帶長輩至中正路名產旗艦店，一邊吹冷氣一邊舒適試吃歇息。<br>
+                • <strong>動漫組</strong>：中正路與民生路口設有數間【大型旗艦選物販賣機店與格子舖】，全場主打正版日本金證公仔、一番賞，更有最夯的「精品 GK 雕像模型特賞抽/戳戳樂機台」，品質最優質無假貨，空檔時間熱血大戰超消磨！
+            </div>
+            <div class="timeline-item"><span class="time">19:30</span> 全員優雅步行前往觀音亭籃球場旁石階（安全陸地解）卡位。</div>
+            <div class="timeline-item"><span class="time">21:00</span> 【花火節重頭戲】震撼觀賞七龍珠 Z 無人機與煙火大秀！散步 8 分鐘回中正國小輕鬆取車開回別墅。</div>
+        </div>
+
+        <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 4 (08/12) 打包回甜蜜的家</h3>
+        <div class="timeline">
+            <div class="timeline-item"><span class="time">08:30</span> 民宿行李大打包、辦理 Check-out。</div>
+            <div class="timeline-item"><span class="time">09:00</span> 【B、C組早鳥隊】由祐銓駕駛【S車】直接前往機場（還第一台車）。</div>
+            <div class="timeline-item"><span class="time">09:30</span> <strong>【S 車機場還車】</strong>B、C組抵場直接還車，並辦理 10:30 飛機登機。</div>
+            <div class="timeline-item"><span class="time">09:15-11:00</span> 【A、D組採購隊】由宜學駕駛【N車】前往市區進行名產自由採購，辦理名產裝箱，中午可在市區自由享用老店讚哥燒肉飯或周邊特色小吃。</div>
+            <div class="timeline-item"><span class="time">11:30</span> <strong>【N 車機場還車】</strong>A、D組抵達機場直接還車（還第二台車），隨即分別辦理登機。</div>
+            <div class="timeline-item"><span class="time">12:00</span> 【D組】華信班機起飛返回高雄小港 12:00 🛫 ／ <span class="time">12:15</span> 【A組】立榮班機起飛返回台北松山 12:15 🛫 南北大會師圓滿成功！</div>
+        </div>
+    </section>
+
+    <section id="budget">
+        <h2>📊 共同公費預估試算表</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>項目說明</th>
+                    <th>預估金額 (NTD)</th>
+                    <th>說明備註</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>泥說民宿 (7間房方案)</td>
+                    <td>$40,000</td>
+                    <td>3晚友情包棟總價</td>
+                </tr>
+                <tr>
+                    <td>阿爾法Rent (S車 + N車 機場取還)</td>
+                    <td>$15,000</td>
+                    <td>2台共3天友情價，機場直接取還車</td>
+                </tr>
+                <tr>
+                    <td>海洋牧場與和慶半潛艇生態票</td>
+                    <td>$7,000</td>
+                    <td>現場彈性購票（含半潛艇、烤蚵吃到飽）</td>
+                </tr>
+                <tr>
+                    <td>澎湖水族館+生活博物館門票</td>
+                    <td>$6,080</td>
+                    <td>現場依實際進場人數購票</td>
+                </tr>
+                <tr>
+                    <td>全行程共餐餐費預估</td>
+                    <td>$46,000</td>
+                    <td>全面取消預先訂位，保留最大應變彈性</td>
+                </tr>
+                <tr>
+                    <td>D2 晚餐：民宿烤肉與私房小吃採買</td>
+                    <td>$10,000</td>
+                    <td>涵蓋精選烤肉肉品、三哥雞排、郵局蔥油餅預算</td>
+                </tr>
+                <tr>
+                    <td>在地冰品點心公共雜支</td>
+                    <td>$3,000</td>
+                    <td>玉冠嫩仙草、仙人掌冰公費彈性支出</td>
+                </tr>
+                <tr style="font-weight: bold; background-color: #FFEDD5;">
+                    <td>💰 共同公費預計總支出</td>
+                    <td>$112,080</td>
+                    <td>💡 注意：本企劃已「取消全部預訂」，改採隨性、自由流安排。實際分攤依最後結算為準。</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</div>
+
+<footer>
+    <p>© 2026 澎湖七龍珠花火節南北家族大會師．由 承明 爆肝涼身訂作</p>
+</footer>
+
+</body>
+</html>
