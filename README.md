@@ -49,7 +49,7 @@
     <h1>☄️ 澎湖七龍珠花火節南北家族大會師 (暫定版) ☄️</h1>
     <p>📅 日期：2026/08/09 ~ 2026/08/12 (4天3夜)</p>
     <p>👥 總人數：19位家人同樂 (現場推薦自由選・夜行微醺暫定審閱版)</p>
-    <p style="font-size: 0.95rem; margin-top: 0.5rem; color: #FFFBEB;">💡 審閱方針：特定需要提前購票、大餐或夜行族酒吧項目加註「待全員確認後再進行預訂」，在地道小吃、老街與四大名店均為現場隨性挑選享用！</p>
+    <p style="font-size: 0.95rem; margin-top: 0.5rem; color: #FFFBEB;">💡 審閱方針：特定需要提前購票、大餐或夜行族酒吧項目加註「待全員確認後再進行預訂」，在地道小吃（如刈包、冰花果汁）、老街與四大名店均為現場隨性挑選享用！</p>
 </header>
 
 <nav>
@@ -170,7 +170,7 @@
             <div class="timeline-item"><span class="time">09:00</span> <strong>民宿出發北環線。啟動逆向操作策略：直接殺到最底端外垵再往回玩，完美錯開全澎湖遊覽車人潮！</strong></div>
             <div class="timeline-item"><span class="time">09:45</span> 第一站：<a href="https://maps.app.goo.gl/4AMYFRRFNQ8gCfj38?g_st=ic" class="text-link" target="_blank">外垵刈包</a>！一早衝去完全免排隊，享受昔日夜遊神級美食！</div>
             <div class="timeline-item"><span class="time">10:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=d04d4a89-9d51-495a-a317-2aa1c00ea0e7&Language=1028" class="text-link" target="_blank">大菓葉柱狀玄武岩</a>：車直達坡道下方，長輩下車走 1 分鐘即達。</div>
-            <div class="timeline-item"><span class="time">10:45</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=f6c6b122-f0ff-4572-832a-413fb223a808&Language=1028" class="text-link" target="_blank">二崁古厝</a>聚落漫遊：喝古法手作杏仁茶消暑。</div>
+            <div class="timeline-item"><span class="time">10:45</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=f6c6b122-f0ff-4572-832a-413fb223a808&Language=1028" class="text-link" target="_blank">二崁古厝</a>聚落漫遊 ＆ 消暑點心：<a href="https://maps.app.goo.gl/hmnFR7tCCENPe8dn8?g_st=ic" class="text-link" target="_blank">二崁一號（陳家冰花果汁）</a>！漫步百年老宅聚落，品嚐澎湖特有現打冰花果汁，微鹹回甘超降火，電視台激推必朝聖！</div>
             <div class="timeline-item"><span class="time">11:30</span> 【中餐】小門鯨魚洞附近小吃：現場各店家自由挑選享用清甜小管麵線。</div>
             <div class="timeline-item"><span class="time">12:45</span> 跨海大橋 ＆ <a href="https://share.google/pEzlJZM78tuFW6TCf" class="text-link" target="_blank">澎湖-長髮公主</a>：地標大合照，此時逆向拍照完全免人擠人！</div>
             <div class="timeline-item"><span class="time">13:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=46d40746-2dc0-4bf5-9d41-736200364654&Language=1028" class="text-link" target="_blank">通樑古榕</a>：巨大天然綠蔭遮陽，品嚐必吃仙人掌冰。</div>
@@ -203,7 +203,7 @@
             <div class="timeline-item"><span class="time">09:15-11:00</span> 【A、D組採購隊】由宜學駕駛【N車】前往市區進行名產自由採購。</div>
             <div class="timeline-item"><span class="time">11:00</span> 【中餐】享用老店【讚哥燒肉飯】🍱 <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：中午可在市區自由享用經典雙拼燒肉飯或周邊特色小吃。</div>
             <div class="timeline-item"><span class="time">11:30</span> <strong>【N 車機場還車】</strong>A、D組抵達機場直接還車（還第二台車），隨即分別辦理登機。</div>
-            <div class="timeline-item"><span class="time">12:00</span> 【D組】華信班機起飛返回高雄小港 12:00 12:00 🛫 ／ <span class="time">12:15</span> 【A組】立榮班機起飛返回台北松山 12:15 12:15 🛫 南北大會師圓滿成功！</div>
+            <div class="timeline-item"><span class="time">12:00</span> 【D組】華信班機起飛返回高雄小港 12:00 🛫 ／ <span class="time">12:15</span> 【A組】立榮班機起飛返回台北松山 12:15 🛫 南北大會師圓滿成功！</div>
         </div>
     </section>
 
@@ -251,12 +251,12 @@
                 </tr>
                 <tr>
                     <td>在地冰品點心公共雜支</td>
-                    <td>$3,000</td>
-                    <td>玉冠嫩仙草與冰品公費支出</td>
+                    <td>$3,500</td>
+                    <td>含玉冠嫩仙草、二崁冰花果汁等消暑點心支出</td>
                 </tr>
                 <tr style="font-weight: bold; background-color: #FFEDD5;">
                     <td>💰 共同公費預計總支出</td>
-                    <td>$117,080</td>
+                    <td>$117,580</td>
                     <td>💡 注意：本企劃依大會討論隨時進行微調。此表為公共公費暫定預估，最終分攤依實際核算為準。</td>
                 </tr>
             </tbody>
@@ -265,7 +265,7 @@
 </div>
 
 <footer>
-    <p>© 2026 澎湖七龍珠花火節南北家族大會師．Gemini 榮譽規劃</p>
+    <p>© 2026 澎湖七龍珠花火節南北家族大會師．由 承明-Qitian 爆肝涼身訂製規劃</p>
 </footer>
 
 </body>
