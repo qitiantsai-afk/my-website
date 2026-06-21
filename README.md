@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>澎湖七龍珠花火節．南北家族大會師 (現場推薦自由選・暫定審閱版)</title>
+    <title>澎湖七龍珠花火節．南北家族大會師 (萬鈞租車/米悅民宿2館・完美配置版)</title>
     <style>
         :root {
             --primary-color: #FF6600; 
@@ -46,16 +46,16 @@
 <body>
 
 <header>
-    <h1>☄️ 澎湖七龍珠花火節南北家族大會師 (暫定版) ☄️</h1>
+    <h1>☄️ 澎湖七龍珠花火節南北家族大會師 (完美配置版) ☄️</h1>
     <p>📅 日期：2026/08/09 ~ 2026/08/12 (4天3夜)</p>
-    <p>👥 總人數：19位家人同樂 (現場推薦自由選・夜行微醺暫定審閱版)</p>
-    <p style="font-size: 0.95rem; margin-top: 0.5rem; color: #FFFBEB;">💡 審閱方針：特定需要提前購票、大餐或夜行族酒吧項目加註「待全員確認後再進行預訂」，在地道小吃（如刈包、冰花果汁）、老街與四大名店均為現場隨性挑選享用！</p>
+    <p>👥 總人數：19位家人同樂 (萬鈞租車接送/米悅2館包棟新企劃)</p>
+    <p style="font-size: 0.95rem; margin-top: 0.5rem; color: #FFFBEB;">💡 完美優化：全面配合「萬鈞租車」，由車行進行機場接送並至車行取還車，團員大件行李全由車行專車載往「米悅民宿2館」，全分房清單與座次完美對接！</p>
 </header>
 
 <nav>
     <a href="#group">家族成員</a>
     <a href="#cars">車輛分配</a>
-    <a href="#hotel">別墅訂房</a>
+    <a href="#hotel">住宿與分房</a>
     <a href="#itinerary">詳細行程</a>
     <a href="#budget">費用預算</a>
 </nav>
@@ -86,7 +86,8 @@
 
     <!-- 車輛乘坐分配 -->
     <section id="cars">
-        <h2>🚗 車輛乘坐座位分配 (機場直接取還)</h2>
+        <h2>🚗 車輛乘坐座位分配 (萬鈞租車行取還)</h2>
+        <p style="margin-bottom: 0.8rem; font-size: 0.9rem; color: #64748B;">📍 車行地址：澎湖縣馬公市西文里96之21號 ｜ 🔗 <a href="https://www.facebook.com/profile.php?id=100054518618343&locale=zh_HK#" class="text-link" target="_blank">萬鈞租車FB官網</a></p>
         <div class="grid">
             <div class="card" style="border-top-color: #DC2626;">
                 <h3>🔴 S 車 (南方之星)</h3>
@@ -94,39 +95,56 @@
                 <p><strong>前排配置：</strong>副駕-卜正，前排中間-和穎</p>
                 <blockquote>最O的三位在前面，後面就寬敞多啦～哈哈！！</blockquote>
                 <p><strong>後座成員：</strong>家麟、美伶、修宏、怡婷、育均、欣穎、程安</p>
-                <p style="margin-top:0.5rem;"><span class="badge badge-orange">Day 1 09:00 機場牽車</span>➔ <span class="badge">Day 4 09:30 機場還車</span></p>
+                <p style="margin-top:0.5rem;"><span class="badge badge-orange">Day 1 09:00 車行接送取車</span>➔ <span class="badge">Day 4 09:30 車行還車/接送機場</span></p>
             </div>
             <div class="card" style="border-top-color: #1E3A8A;">
                 <h3>🔵 N 車 (北方之星)</h3>
                 <p><strong>駕駛：</strong>佑銓</p>
                 <p><strong>成員：</strong>云茜、宏越、思甯、博喧、敏馨、品辰、辰睿、芮羽</p>
-                <p style="margin-top:1.7rem;"><span class="badge badge-green">Day 1 12:30 機場牽車</span>➔ <span class="badge">Day 4 11:30 機場還車</span></p>
+                <p style="margin-top:1.7rem;"><span class="badge badge-green">Day 1 12:30 車行接送取車</span>➔ <span class="badge">Day 4 11:30 車行還車/接送機場</span></p>
             </div>
         </div>
     </section>
 
-    <!-- 民宿房型配置 -->
+    <!-- 民宿安排說明 -->
     <section id="hotel">
-        <h2>🏡 泥說民宿 房型配置</h2>
-        <p><strong>民宿地址：</strong>澎湖縣馬公市前寮里3-26號 (全新包棟雙棟別墅)</p>
-        <p><strong>娛樂公設：</strong><span class="badge badge-green">兩棟別墅客廳皆有 KTV 歡唱系統 & 電動麻將桌</span> 🀄🎤</p>
-        <div class="grid">
-            <div class="card" style="border-top-color: var(--primary-color);">
-                <h3>A 棟 (4人房 3間)</h3>
-                <ul>
-                    <li><strong>A1房：</strong>宜學、育均、和穎、程安</li>
-                    <li><strong>A2房：</strong>修宏、怡婷、博喧、敏馨</li>
-                    <li><strong>A3房：</strong>祐銓、云茜、辰睿、芮羽</li>
-                </ul>
+        <h2>🏡 <a href="https://bnb.ph101.tw/f9K3vPmi2" class="text-link" target="_blank">米悅民宿2館</a> 包棟分房清單</h2>
+        <p><strong>民宿地址：</strong>880澎湖縣馬公市西衛里 西衛, 693號 ｜ <strong>包棟方案：</strong>3晚共 $40,000</p>
+        <p style="margin-bottom: 1rem;"><span class="badge badge-green">公設內含 KTV 歡唱系統 & 電動麻將桌</span> ｜ 全體大件行李由萬鈞租車直接專車在第一時間運送至民宿。</p>
+        
+        <h3 style="color:var(--primary-color); margin-bottom: 0.5rem;">📐 3間 4人房 (Quadruple Room)</h3>
+        <div class="grid" style="margin-bottom: 1.5rem;">
+            <div class="card">
+                <h3>🏠 Q1 房</h3>
+                <p>宜學、育均、和穎、程安</p>
             </div>
-            <div class="card" style="border-top-color: var(--primary-color);">
-                <h3>B 棟 (2人房 4間)</h3>
-                <ul>
-                    <li><strong>B1房：</strong>家麟、美伶 <span class="badge">長輩獨立安靜房</span></li>
-                    <li><strong>B2房：</strong>宏越、思甯</li>
-                    <li><strong>B3房：</strong>欣穎、品辰</li>
-                    <li><strong>B4房：</strong>卜正</li>
-                </ul>
+            <div class="card">
+                <h3>🏠 Q2 房</h3>
+                <p>修宏、怡婷、博喧、敏馨</p>
+            </div>
+            <div class="card">
+                <h3>🏠 Q3 房</h3>
+                <p>祐銓、云茜、辰睿、芮羽</p>
+            </div>
+        </div>
+
+        <h3 style="color:var(--primary-color); margin-bottom: 0.5rem;">📐 4間 2人房 (Double Room)</h3>
+        <div class="grid">
+            <div class="card">
+                <h3>🏠 D5 房</h3>
+                <p>家麟、美伶 <br><span class="badge badge-orange">長輩獨立安靜房</span></p>
+            </div>
+            <div class="card">
+                <h3>🏠 D6 房</h3>
+                <p>宏越、思甯</p>
+            </div>
+            <div class="card">
+                <h3>🏠 D7 房</h3>
+                <p>欣穎、品辰 <br><span class="badge">大姊姊專屬房</span></p>
+            </div>
+            <div class="card">
+                <h3>🏠 D8 房</h3>
+                <p>卜正 <br><span class="badge badge-green">獨立單人房</span></p>
             </div>
         </div>
     </section>
@@ -138,15 +156,15 @@
         <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 1 (08/09) 南北大會師與南環夕陽【暫定】</h3>
         <div class="timeline">
             <div class="timeline-item"><span class="time">08:00</span> A組班機抵達馬公機場。<strong>（預留30分鐘提領行李與出關手續）</strong></div>
-            <div class="timeline-item"><span class="time">09:00</span> <strong>【機場牽 S 車】</strong>宜學代表於機場直接取 S 車，開啟慢活自由度假。</div>
-            <div class="timeline-item"><span class="time">09:15-11:40</span> A組專屬悠閒慢活，自由隨性在市區尋找冷氣早午餐店休息。</div>
+            <div class="timeline-item"><span class="time">09:00</span> <strong>【車行機場接送 ➔ 萬鈞租車取 S 車】</strong>：宜學代表由萬鈞租車接駁專車送抵車行取車，同時全體團員大件行李由車行專車直接接駁送往米悅民宿2館。</div>
+            <div class="timeline-item"><span class="time">09:15-11:40</span> A組專屬悠閒慢活，免提行李超自在，自由隨性在市區尋找冷氣早午餐店休息。</div>
             <div class="timeline-item"><span class="time">11:40</span> B組航班降落馬公機場（搭乘10:40松山起飛班機）。</div>
-            <div class="timeline-item"><span class="time">12:15</span> D組高雄華信航班降落馬公機場（B、C組已全數降落）。<strong>（全體預留30分鐘大團體集合出關時間）</strong></div>
-            <div class="timeline-item"><span class="time">12:30</span> <strong>【機場牽 N 車】</strong>祐銓代表下機後於機場直接辦理 N 車牽車手續！</div>
-            <div class="timeline-item"><span class="time">12:45</span> <strong>全員機場大會師合體！</strong> S車與N車大部隊由機場出發。</div>
-            <div class="timeline-item"><span class="time">13:10</span> <strong>【中餐】全員開吃漁港麵小吃 <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：</strong>朝聖在地老麵店！大碗海鮮麵配滿桌招牌滷味！一點過後剛好避開午餐正尖峰！</div>
-            <div class="timeline-item"><span class="time">14:40</span> <a href="https://www.penghu.gov.tw/phlm/ch/home.jsp?id=38&act=view&dataserno=201301250007" class="text-link" target="_blank">澎湖生活博物館</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：正午烈日大避暑，現場視全家狀況購票，吹冷氣看精緻大船模型，長輩小孩都舒服。</div>
-            <div class="timeline-item"><span class="time">16:00</span> 泥說民宿辦理 Check-in，行李安頓，全家稍作午歇小憩、避開烈日。</div>
+            <div class="timeline-item"><span class="time">12:15</span> D組高雄華信航班降落馬公機場。<strong>（全體預留30分鐘大團體集合時間）</strong></div>
+            <div class="timeline-item"><span class="time">12:30</span> <strong>【車行機場接送 ➔ 萬鈞租車取 N 車】</strong>：祐銓代表下機集合後，搭乘接駁專車往萬鈞租車取車，其餘家人大件行李一併由車行專車載往米悅民宿2館。</div>
+            <div class="timeline-item"><span class="time">12:45</span> <strong>萬鈞租車行全員大合體！</strong> S車與N車大部隊由車行出發，雙手空空極致舒適！</div>
+            <div class="timeline-item"><span class="time">13:10</span> <strong>【中餐】全員開吃漁港麵小吃 <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：</strong>朝聖在地老麵店！海鮮麵配滿桌招牌滷味！一點過後剛好避開午餐正尖峰！</div>
+            <div class="timeline-item"><span class="time">14:40</span> <a href="https://www.penghu.gov.tw/phlm/ch/home.jsp?id=38&act=view&dataserno=201301250007" class="text-link" target="_blank">澎湖生活博物館</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：正午烈日大避暑，現場視全家狀況購票，看大船模型。</div>
+            <div class="timeline-item"><span class="time">16:00</span> 米悅民宿2館辦理 Check-in，大件行李已安抵民宿！全家依照分房清單進房安頓，稍微休息午歇、避開烈日。</div>
             <div class="timeline-item"><span class="time">17:00</span> 【全員中央老街古蹟巡禮】散步天后宮與四眼井。同時啟動 <a href="https://maps.app.goo.gl/WPTSRiuvQYoyDKHF8?g_st=ic" class="text-link" target="_blank">玉冠嫩仙草</a> 攻略：先抽號碼牌再逛老街，回頭直接拿仙草消暑！</div>
             <div class="timeline-item"><span class="time">18:15</span> <a href="https://share.google/uqfea8hwQtUxJ3HkD" class="text-link" target="_blank">風櫃聽濤</a> ➔ 18:35 <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=eb226be1-d129-473b-bf39-d9b2e6ccf0e2&Language=1028" class="text-link" target="_blank">山水沙灘</a>：看最美夕陽，小孩沙灘放電。</div>
             <div class="timeline-item"><span class="time">19:50</span> 【晚餐】<a href="https://share.google/QBSvuNkQ5NiyxoXbw" class="text-link" target="_blank">富國海鮮餐廳</a>：<span class="badge badge-red">（親友強力推薦海味台菜，待全員確認後再進行預訂）</span></div>
@@ -161,22 +179,22 @@
             <div class="timeline-item"><span class="time">13:00-16:00</span> <a href="https://ayuliu.pixnet.net/blog/posts/16065615611" class="text-link" target="_blank">三號港免稅店 (Pier 3)</a> ＆ 小吃攻略連線！14:00 搶剛開門免排隊的【郵局蔥油餅】！15:00 準時預訂【三哥雞排】。長輩吹冷氣休息，小孩衝室內體能樂園徹底放電。</div>
             <div class="timeline-item"><span class="time">16:30</span> <a href="https://share.google/9rZleSdgAw88LvOHB" class="text-link" target="_blank">奎壁山摩西分海</a> ➔ <a href="https://share.google/NwbPHti04EchoatMB" class="text-link" target="_blank">南寮古厝</a>：見證摩西開路神蹟。</div>
             <div class="timeline-item"><span class="time">18:00</span> 順路直奔熱門推薦的私房神級烤肉食材店採購，順便提領三哥雞排！</div>
-            <div class="timeline-item"><span class="time">18:30</span> 【晚餐】<span class="badge badge-red">★泥說別墅星空 BBQ 烤肉派對 + 廚房大開伙 (待全員確認後再進行預訂)★</span>：兩棟客廳KTV飆歌、電動麻將開打。</div>
-            <div class="timeline-item"><span class="time">22:00-24:00</span> <strong>【夜行族專屬限定續攤】<a href="https://maps.app.goo.gl/g99whSc9xh3tWbXj8?g_st=il" class="text-link" target="_blank">弗洛伊得音樂餐廳</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span></strong>：夜行族成員（修宏、怡婷、博喧、敏馨、育均、祐銓、云茜、宏越、思甯，共9人）深夜出團！前往馬公市區開了30年的老字號傳奇復古酒吧聊天暢飲，凌晨 12:00 準時結束返回民宿。</div>
+            <div class="timeline-item"><span class="time">18:30</span> 【晚餐】<span class="badge badge-red">★米悅民宿2館星空 BBQ 烤肉派對 + 廚房大開伙 (待全員確認後再進行預訂)★</span>：客廳 KTV 飆歌、電動麻將開打同樂。</div>
+            <div class="timeline-item"><span class="time">22:00-24:00</span> <strong>【夜行族專屬限定續攤】<a href="https://maps.app.goo.gl/g99whSc9xh3tWbXj8?g_st=il" class="text-link" target="_blank">弗洛伊得音樂餐廳</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span></strong>：夜行族成員深夜出團！前往馬公市區傳奇酒吧暢飲，凌晨 12:00 準時返回米悅2館。</div>
         </div>
 
         <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 3 (08/11) 聰明「反向玩北環」避人潮 ➔ 17:30 官方交管卡位與 GK 一番賞之夜🎇【暫定】</h3>
         <div class="timeline">
-            <div class="timeline-item"><span class="time">09:00</span> <strong>民宿出發北環線。啟動逆向操作策略：直接殺到最底端外垵再往回玩，完美錯開全澎湖遊覽車人潮！</strong></div>
+            <div class="timeline-item"><span class="time">09:00</span> <strong>米悅民宿2館出發北環線。啟動逆向操作策略：直接殺到最底端外垵再往回玩，完美錯開全澎湖遊覽車人潮！</strong></div>
             <div class="timeline-item"><span class="time">09:45</span> 第一站：<a href="https://maps.app.goo.gl/4AMYFRRFNQ8gCfj38?g_st=ic" class="text-link" target="_blank">外垵刈包</a>！一早衝去完全免排隊，享受昔日夜遊神級美食！</div>
             <div class="timeline-item"><span class="time">10:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=d04d4a89-9d51-495a-a317-2aa1c00ea0e7&Language=1028" class="text-link" target="_blank">大菓葉柱狀玄武岩</a>：車直達坡道下方，長輩下車走 1 分鐘即達。</div>
-            <div class="timeline-item"><span class="time">10:45</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=f6c6b122-f0ff-4572-832a-413fb223a808&Language=1028" class="text-link" target="_blank">二崁古厝</a>聚落漫遊 ＆ 消暑點心：<a href="https://maps.app.goo.gl/hmnFR7tCCENPe8dn8?g_st=ic" class="text-link" target="_blank">二崁一號（陳家冰花果汁）</a>！漫步百年老宅聚落，品嚐澎湖特有現打冰花果汁，微鹹回甘超降火，電視台激推必朝聖！</div>
+            <div class="timeline-item"><span class="time">10:45</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=f6c6b122-f0ff-4572-832a-413fb223a808&Language=1028" class="text-link" target="_blank">二崁古厝</a>聚落漫遊 ＆ 消暑點心：<a href="https://maps.app.goo.gl/hmnFR7tCCENPe8dn8?g_st=ic" class="text-link" target="_blank">二崁一號（陳家冰花果汁）</a>！漫步百年老宅聚落，品嚐現打特色冰花果汁，生津回甘。</div>
             <div class="timeline-item"><span class="time">11:30</span> 【中餐】小門鯨魚洞附近小吃：現場各店家自由挑選享用清甜小管麵線。</div>
             <div class="timeline-item"><span class="time">12:45</span> 跨海大橋 ＆ <a href="https://share.google/pEzlJZM78tuFW6TCf" class="text-link" target="_blank">澎湖-長髮公主</a>：地標大合照，此時逆向拍照完全免人擠人！</div>
             <div class="timeline-item"><span class="time">13:15</span> <a href="https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=46d40746-2dc0-4bf5-9d41-736200364654&Language=1028" class="text-link" target="_blank">通樑古榕</a>：巨大天然綠蔭遮陽，品嚐必吃仙人掌冰。</div>
             <div class="timeline-item"><span class="time">13:50</span> <a href="https://share.google/sHKsm0IWAxwSFNMLn" class="text-link" target="_blank">後寮天堂路</a>、<a href="https://share.google/h1ysFd9rCh70HqIsu" class="text-link" target="_blank">哈密瓜車站</a>：漫步海上夢幻長路。</div>
             <div class="timeline-item"><span class="time">14:20</span> <a href="https://share.google/WGq6PPNN1cItdVkai" class="text-link" target="_blank">城前社區鮮蚵裝置</a>：萌網美大鮮蚵快閃打卡。</div>
-            <div class="timeline-item"><span class="time">14:30-16:00</span> <a href="https://sywan90204.pixnet.net/blog/posts/17324319180" class="text-link" target="_blank">澎湖水族館</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：關鍵正午大避暑，現場購票進場，看魟魚餵食秀。隨後回民宿短暫歇息整頓。</div>
+            <div class="timeline-item"><span class="time">14:30-16:00</span> <a href="https://sywan90204.pixnet.net/blog/posts/17324319180" class="text-link" target="_blank">澎湖水族館</a> <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：關鍵正午大避暑，看魟魚餵食秀。隨後返回米悅民宿2館短暫歇息整頓。</div>
             <div class="timeline-item"><span class="time">17:15</span> <strong>【S車/N車編隊進馬公市區】</strong>提早出發，避開最可怕的塞車潮！</div>
             <div class="timeline-item"><span class="time">17:30</span> <strong>【神卡位！中正國小地下停車場】</strong>🚗 趕在 18:00 官方交管啟動前停妥車！享受 18:00-22:00 免費福利，步行至周邊各店僅 2-5 分鐘。</div>
             <div class="timeline-item">
@@ -189,21 +207,20 @@
             <div class="timeline-item">
                 <span class="time">18:45-19:30</span> <strong>【空檔大作戰：伴手禮試吃 ＆ 旗艦 GK 一番賞雙線狂歡】</strong><br>
                 • <strong>名產組</strong>：帶長輩至中正路名產旗艦店，一邊吹冷氣一邊舒適試吃歇息。<br>
-                • <strong>動漫組</strong>：中正路與民生路口設有數間大型旗艦選物販賣機店與格子舖，全場主打正版金證公仔、一番賞，更有最夯的「精品 GK 雕像模型特賞抽」，品質優質無假貨，空檔時間熱血大戰超消磨！
+                • <strong>動漫組</strong>：中正路與民生路口設有數間大型旗艦選物販賣機店與格子舖，全場主打正版金證公仔、一番賞與精品 GK 雕像模型特賞抽，品質優質無假貨。
             </div>
             <div class="timeline-item"><span class="time">19:30</span> 全員優雅步行前往觀音亭籃球場旁石階（安全陸地解）卡位。</div>
-            <div class="timeline-item"><span class="time">21:00</span> 【花火節重頭戲】震撼觀賞七龍珠 Z 無人機與煙火大秀！散步 8 分鐘回中正國小輕鬆取車開回別墅。</div>
+            <div class="timeline-item"><span class="time">21:00</span> 【花火節重頭戲】震撼觀賞七龍珠 Z 無人機與煙火大秀！散步 8 分鐘回中正國小輕鬆取車開回米悅民宿2館。</div>
         </div>
 
         <h3 style="color:var(--accent-blue); margin: 1rem 0 0.5rem 0;">📍 DAY 4 (08/12) 行理打包與返家【暫定】</h3>
         <div class="timeline">
-            <div class="timeline-item"><span class="time">08:30</span> 民宿行李大打包、辦理 Check-out。</div>
-            <div class="timeline-item"><span class="time">09:00</span> 【B、C組早鳥隊】由祐銓駕駛【S車】直接前往機場（還第一台車）。</div>
-            <div class="timeline-item"><span class="time">09:30</span> <strong>【S 車機場還車】</strong>B、C組抵場直接還車，並辦理 10:30 飛機登機。</div>
-            <div class="timeline-item"><span class="time">09:15-11:00</span> 【A、D組採購隊】由宜學駕駛【N車】前往市區進行名產自由採購。</div>
-            <div class="timeline-item"><span class="time">11:00</span> 【中餐】享用老店【讚哥燒肉飯】🍱 <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：中午可在市區自由享用經典雙拼燒肉飯或周邊特色小吃。</div>
-            <div class="timeline-item"><span class="time">11:30</span> <strong>【N 車機場還車】</strong>A、D組抵達機場直接還車（還第二台車），隨即分別辦理登機。</div>
-            <div class="timeline-item"><span class="time">12:00</span> 【D組】華信班機起飛返回高雄小港 12:00 🛫 ／ <span class="time">12:15</span> 【A組】立榮班機起飛返回台北松山 12:15 🛫 南北大會師圓滿成功！</div>
+            <div class="timeline-item"><span class="time">08:30</span> 米悅民宿2館行李大打包、辦理 Check-out。</div>
+            <div class="timeline-item"><span class="time">09:00</span> 【B、C組早鳥隊】由祐銓駕駛【S車】前往萬鈞租車行辦理還車。</div>
+            <div class="timeline-item"><span class="time">09:30</span> <strong>【萬鈞租車行還 S 車 ➔ 車行接送至機場】</strong>：B、C組於車行歸還 S 車，隨即由車行專車接送至機場辦理登機。</div>
+            <div class="timeline-item"><span class="time">09:15-11:00</span> 【A、D組採購隊】由宜學駕駛【N車】前往市區進行名產特產自由大採購。</div>
+            <div class="timeline-item"><span class="time">11:00</span> 【中餐】享用老店【讚哥燒肉飯】🍱 <span class="badge badge-red">★(待全員確認後再進行預訂)★</span>：中午在市區享用經典雙拼燒肉飯。</div>
+            <div class="timeline-item"><span class="time">11:30</span> <strong>【萬鈞租車行還 N 車 ➔ 車行接送至機場】</strong>：A、D組前往車行歸還 N 車，隨即由車行專車接送抵有機場，南北大家族大會師圓滿成功！</div>
         </div>
     </section>
 
@@ -220,14 +237,14 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>泥說民宿 (7間房方案)</td>
+                    <td>米悅民宿2館 (3間4人房+4間2人房包棟方案)</td>
                     <td>$40,000</td>
-                    <td>3晚友情包棟總價</td>
+                    <td>3晚預算總價，房型床位已完美載入配置</td>
                 </tr>
                 <tr>
-                    <td>阿爾法Rent (S車 + N車 機場取還)</td>
+                    <td>萬鈞租車 (S車 + N車 含機場與行李接送)</td>
                     <td>$15,000</td>
-                    <td>2台共3天友情價，機場直接取還車</td>
+                    <td>2台共3天，車行取還車含專車與大件行李專車運送</td>
                 </tr>
                 <tr>
                     <td>海洋牧場與和慶半潛艇生態票</td>
@@ -242,10 +259,10 @@
                 <tr>
                     <td>全行程共餐餐費預估</td>
                     <td>$46,000</td>
-                    <td>全行程共餐小吃（含D1富國海鮮餐廳 🚨 待全員確認後再進行預訂）</td>
+                    <td>全行程共餐（含D1富國海鮮餐廳 🚨 待全員確認後再進行預訂）</td>
                 </tr>
                 <tr>
-                    <td>D2 晚餐：民宿烤肉與私房小吃採買</td>
+                    <td>D2 晚餐：別墅烤肉與私房小吃採買</td>
                     <td>$10,000</td>
                     <td>烤肉食材與備料採買 🚨 (待全員確認後再進行預訂)</td>
                 </tr>
@@ -265,7 +282,7 @@
 </div>
 
 <footer>
-    <p>© 2026 澎湖七龍珠花火節南北家族大會師．由 承明-Qitian 爆肝涼身訂製規劃</p>
+    <p>© 2026 澎湖七龍珠花火節南北家族大會師．由 承明 Qitian 報乾涼身訂製行程規劃</p>
 </footer>
 
 </body>
